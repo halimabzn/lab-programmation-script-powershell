@@ -10,7 +10,7 @@
     Derniere mise à jour: yyyy-mm-dd
 
 #>
-[String]$personneNom = "Alice"
+[String]$personneNom = "halima"
 [Int]$personneAge = 35
 
 Write-Host "Bonjour $personneNom, tu as $personneAge ans. "
@@ -31,3 +31,4 @@ for ($i = 0; $i -le $villes.Count; $i = $i + 1) {
 Clear-Host
 
 "{0}" -F ($villes.Count % 2)
+
