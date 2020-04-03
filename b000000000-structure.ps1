@@ -4,7 +4,7 @@
 .DESCRIPTION
     Ce script est utilisé pour le laboratoire de programmation en Powershell.
 .NOTES
-    Author: AbbasSadissou
+    Author: halimabzn
     Derniere mise à jour: yyyy-mm-dd
 #>
 
