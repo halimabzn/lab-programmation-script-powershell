@@ -8,7 +8,7 @@
     Derniere mise à jour: yyyy-mm-dd
 #>
 
-[String]$personneNom = "lima"
+[String]$personneNom = "Alice"
 [Int]$personneAge = 35
 
 
